@@ -1,0 +1,33 @@
+      <table style="float: right; size: px;">
+        <tr>
+          <td>
+            <div class="card">
+              <img alt="Actualités" src="Images/licence-professionnelle.png" style="width: 100%;" />
+              <h1 class="Actitre">Licence Professionnelle d'Université Ingénierie Industrielle</h1>
+              <p class="title">26 Octobre 2020</p>
+              <p class="newsDetail">L'Ecole Normale Supérieure de l'Enseignement Technique _Université Hassan II de Casablanca a créée la Licence...</p>
+              <p><button><a class="Email" href="mailto:iliyass.zamouri@gmail.com" target="_blank">Lire</a></button></p>
+            </div>
+          </td>
+          <td>
+            <div class="card">
+              <img alt="Actualités" src="Images/licence-professionnelle.png" style="width: 100%;" />
+              <h1 class="Actitre">Licence Professionnelle d'Université Ingénierie Industrielle</h1>
+              <p class="title">26 Octobre 2020</p>
+              <p class="newsDetail">L'Ecole Normale Supérieure de l'Enseignement Technique _Université Hassan II de Casablanca a créée la Licence...</p>
+              <p><button><a class="Email" href="mailto:iliyass.zamouri@gmail.com" target="_blank">Lire</a></button></p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="card">
+              <img alt="Actualités" src="Images/licence-professionnelle.png" style="width: 100%;" />
+              <h1 class="Actitre">Licence Professionnelle d'Université Ingénierie Industrielle</h1>
+              <p class="title">26 Octobre 2020</p>
+              <p class="newsDetail">L'Ecole Normale Supérieure de l'Enseignement Technique _Université Hassan II de Casablanca a créée la Licence...</p>
+              <p><button><a class="Email" href="mailto:iliyass.zamouri@gmail.com" target="_blank">Lire</a></button></p>
+            </div>
+          </td>
+        </tr>
+      </table>
